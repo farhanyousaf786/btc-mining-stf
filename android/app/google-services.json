@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840260121877",
+    "project_id": "btc-mining-stf",
+    "storage_bucket": "btc-mining-stf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840260121877:android:01357d514e2ba4bf06e51c",
+        "android_client_info": {
+          "package_name": "com.switchtofuture.bitmine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXsuyedV4b3mp7JEe9NYKJVZVPsKjJRSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
